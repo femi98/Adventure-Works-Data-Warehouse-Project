@@ -82,12 +82,44 @@ Architecture Pattern: Medallion (Bronze/Silver/Gold)
 🚀 Key Insights (EDA)
 
 Through the exploratory analysis phase, we uncovered several critical business findings:
+🔑 Executive Snapshot (Descriptive Statistics)
+Total Sales
+Items Sold (Units)
+Average Selling Price
+Total Orders
+Total Products
+Total Customers Base
+Customers with Orders
 
-Revenue Trends: Identified peak sales periods and seasonal fluctuations.
+🌍 Customer & Market Segmentation
+Customers by Country
+Customers by Gender
+Average Age by Gender
 
-Customer Segments: Mapped high-value customers versus casual buyers.
+🧱 Product Portfolio & Cost Structure
+Product Count by Category
+Average Cost by Category
 
-Product Performance: Distinguished between high-margin products and slow-moving inventory.
+💰 Revenue Drivers
+Revenue by Category
+Top revenue-contributing categories
+Revenue by Country
+Top 5 Subcategories (Overall)
+Highest revenue subcategories
+Annual Subcategory Leaders
+
+For each year, the #1 subcategory by revenue:
+
+[Year 1] – [Subcat] (₦[Revenue])
+[Year 2] – [Subcat] (₦[Revenue])
+Great to spot shifts in consumer preference over time.
+
+👑 Key Account Intelligence
+
+Top 5 Customers in Each Country
+
+Identifies high-value accounts by country, with rank by revenue.
+Useful for account-based marketing, premium service tiers, and localized retention plays.
 
 ⚙️ Setup & Installation
 
